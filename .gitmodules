@@ -1,0 +1,3 @@
+[submodule "bebopnet"]
+	path = bebopnet
+	url = https://github.com/shunithaviv/bebopnet-code.git
